@@ -1,0 +1,632 @@
+https://www.memphis.edu/cs/programs/index.php
+
+
+
+ 
+
+
+
+BS Computer Science - 
+ 	Computer Science
+ 	 - The University of Memphis
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+
+
+ SearchX
+
+
+Prospective Students
+Current Students
+Parents & Family
+Alumni
+Veterans
+Faculty & Staff
+
+
+Academics
+
+
+All Things Academics
+Colleges & Schools
+UofM Global - Online Degree Program
+UofM Lambuth - Jackson, TN
+Undergraduate Catalog
+Graduate Catalog
+Academic Calendar
+
+
+
+Admissions
+
+
+Undergraduate
+Graduate
+UofM Global - Online
+Law School
+International
+Transfer Students
+Virtual Tour
+Fees/Tuition
+
+
+
+Research and Innovation
+
+
+Division of Research and Innovation
+For Researchers
+For Industry and Partners
+Centers and Institutes
+FedEx Institute of Technology
+Office of Institutional Research
+
+
+
+Libraries
+
+
+University Libraries
+Research Resources
+Special Collections
+Ask-a-Librarian
+
+
+
+Athletics
+
+
+Tiger Athletics
+Tickets
+Intramurals
+Campus Rec
+Make A Gift
+gotigersgo.com
+
+
+
+Support UofM
+
+
+Make A Gift
+Alumni Association
+Athletics Development
+Corporate & Foundation Relations
+
+
+
+News & Events
+
+
+Tiger Zone - Student Events
+Campus Events
+Media Room: News & Magazines
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Review COVID-19 Info & Campus Updates >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+Menu
+
+
+
+
+
+
+
+
+
+
+ 			Department of Computer Science
+ 	
+
+
+
+
+
+
+
+
+About
+News
+Future Students
+Current Students
+Research
+People
+Outreach
+Giving
+
+
+
+
+
+
+
+
+
+eCourseware
+umMail
+myMemphis
+Directories
+
+
+Visit
+Apply
+Give
+Contact
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Degree Programs
+
+
+
+
+
+BS Computer Science
+
+Accelerated BS/MS Program
+
+MS Computer Science
+
+PhD Computer Science
+
+Graduate Certificate in Cybersecurity and Information Assurance (Available Online)
+
+Graduate Certificate in Data Science (Available Online)
+
+Online Offerings
+
+
+
+
+Take Action
+
+
+
+Career Paths
+Degree Programs
+Courses
+Contact Us
+
+
+
+
+Follow Us Online
+FacebookLinkedn
+
+
+
+
+Home
+
+ 	Computer Science
+ 	
+
+ 	Degree Programs
+ 	
+
+BS Computer Science
+The BS degree program is accredited by the Computing Accreditation Commission of the
+ Accreditation Board for Engineering and Technology (CAC/ABET), 415 N Charles Street, Baltimore, MD 21021 (phone: 410.347.7700).
+ 
+As of Fall 2019, there are 419 students enrolled in the BS program. Graduation data
+ from the last several years is provided below:
+ 
+
+2020 - 31 (Spring), 0 (Summer), 21 (Fall)
+ 
+2019 - 35 (Spring), 3 (Summer), 19 (Fall)
+ 
+2018 - 23 (Spring), 4 (Summer), 12 (Fall)
+ 
+2017 - 23 (Spring), 2 (Summer), 6 (Fall)
+ 
+2016 - 17 (Spring), 7 (Summer), 10 (Fall)
+ 
+2015 - 24 (Spring), 2 (Summer), 11 (Fall)
+ 
+2014 - 8 (Fall)
+ 
+
+Program Educational Objectives
+The program educational objectives for the Bachelor's degree in computer science are
+ that within a few years after graduation, graduates are expected to:
+ 
+
+Demonstrate an ability to solve complex problems through the use of computer science,
+ as evidenced by successful entrance into and advancement in the computer science profession.
+ 
+Demonstrate an appreciation for lifelong learning and for the value of continuing
+ professional development by pursuing graduate education, professional education or
+ continuing education opportunities, attainment of professional licensure, and/or membership
+ in professional societies.
+ 
+
+Student Outcomes
+Graduates with a BS in Computer Science will have an ability to:
+
+Analyze a complex computing problem and to apply principles of computing and other
+ relevant disciplines to identify solutions.
+ 
+Design, implement, and evaluate a computing-based solution to meet a given set of
+ computing requirements in the context of the program’s discipline.
+ 
+Communicate effectively in a variety of professional contexts.
+Recognize professional responsibilities and make informed judgments in computing practice
+ based on legal and ethical principles.
+ 
+Function effectively as a member or leader of a team engaged in activities appropriate
+ to the program’s discipline.
+ 
+Apply computer science theory and software development fundamentals to produce computing-based
+ solutions.
+ 
+
+Concentrations
+As of the 2019-20 catalog, students can choose one of four concentrations:
+
+General Concentration
+Cybersecurity Concentration
+Data Science Concentration
+Artificial Intelligence Concentration
+
+ 
+Program Requirements
+Please refer to the university's Undergraduate Catalog for detailed program requirements.
+ Links to the past few catalog years are provided below:
+ 
+2021-22
+
+BS Computer Science, General Concentration
+BS Computer Science, Cybersecurity Concentration
+BS Computer Science, Data Science Concentration
+BS Computer Science, Artificial Intelligence Concentration
+
+2020-21
+
+BS Computer Science, General Concentration
+BS Computer Science, Cybersecurity Concentration
+BS Computer Science, Data Science Concentration
+BS Computer Science, Artificial Intelligence Concentration
+
+2019-20
+
+BS Computer Science, General Concentration
+BS Computer Science, Cybersecurity Concentration
+BS Computer Science, Data Science Concentration
+BS Computer Science, Artificial Intelligence Concentration
+
+2018-19
+
+BS Computer Science, General Concentration
+BS Computer Science, Cybersecurity Concentration
+
+
+Computer Science Honors Designation
+A student will earn the designation “with Honors in Computer Science” upon graduation
+ having complied with the following requirements:
+ 
+
+Be admitted into the Computer Science Honors Program by the Department upon formal
+ request for consideration by the student;
+ 
+Have an inclusive GPA of at least 3.0 and a cumulative GPA of at least 3.60 in Computer
+ Science (COMP) courses satisfying degree requirements;
+ 
+Complete fifteen (15) credit hours in courses designated “Honors” in the the Computer
+ Science program and satisfying degree requirements;
+ 
+Take honors sections of both COMP 1900 and COMP 2150;
+Take at least three (3) credit hours from the following courses as honors sections:
+ COMP 4882 Capstone Project, COMP 4901 Independent Study, COMP 4980 Senior Thesis.
+ 
+
+Computer Science Minor
+Completion of 21 semester hours in computer science courses, including the following:
+
+COMP 1900 CS 1 (4 hrs)
+COMP 2150 CS 2 (4 hrs)
+COMP 2700 Discrete Structures (4 hrs)
+COMP 3115 Databases (3 hrs)
+Two additional upper-division COMP courses (6 hrs)
+
+Related Documents (Effective Fall 2019)
+
+Degree Checklist
+Degree Flowcharts
+ 
+ 
+General Concentration
+Cybersecurity Concentration
+Data Science Concentration
+Artificial Intelligence Concentration
+
+
+Suggested Four-Year Plans
+ 
+ 
+General Concentration
+Cybersecurity Concentration
+Data Science Concentration
+Artificial Intelligence Concentration
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Admissions
+
+
+Prospective Students
+Undergraduate
+Graduate
+Law School
+International
+Parents
+Financial Aid
+Scholarships
+Tuition & Fee Payment
+FAQs
+About UofM
+Virtual Tour
+
+
+
+Academics
+
+
+Provost's Office
+Libraries
+Transcripts
+Undergraduate Catalog
+Graduate Catalog
+Academic Calendars
+Course Schedule
+Graduation
+Honors College
+eCourseware
+
+
+
+Athletics
+
+
+gotigersgo.com
+Ticket Information
+Intramural Sports
+Recreation Center
+Athletic Academic Support
+Former Tigers
+Facilities
+Tiger Scholarship Fund
+Media
+
+
+
+Research
+
+
+Division of Research and Innovation
+For Researchers
+Centers & Institutes
+FedEx Institute of Technology
+Libraries
+Grants Accounting
+Environmental Health
+Office of Institutional Research
+
+
+
+Support UofM
+
+
+Make a Gift
+Alumni Association
+Athletics Development
+Corporate & Foundation Relations
+
+
+
+Administrative Support
+
+
+President's Office
+Academic Affairs
+Business & Finance
+Career Opportunities
+Conference & Event Services 
+Corporate Partnerships
+University Advancement
+Government Relations
+Information Technology Services
+TigerHelp
+Media and Marketing
+Student Academic Success
+UofM Foundation
+
+
+
+
+
+ 
+
+Follow UofM Online
+
+Instagram 
+Facebook 
+twitter 
+Youtube 
+LinkedIn 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Print
+Got a Question? Ask
+ TOM
+Copyright
+ ©
+ 2019 The University of Memphis
+
+Important Notice
+
+
+
+Last Updated: 9/13/21
+
+
+The
+ University of Memphis
+Memphis, TN 38152
+Phone: 901.678.2000
+
+
+
+
+The University of Memphis does not discriminate against students, employees, or applicants for admission or employment on the basis of race, color, religion, creed, national origin, sex, sexual orientation, gender identity/expression, disability, age, status as a protected veteran, genetic information, or any other legally protected class with respect to all employment, programs and activities sponsored by the University of Memphis. The Office for Institutional Equity has been designated to handle inquiries regarding non-discrimination policies. For more information, visit The University of Memphis Equal Opportunity and Affirmative Action.Title IX of the Education Amendments of 1972 protects people from discrimination based on sex in education programs or activities which receive Federal financial assistance. Title IX states: "No person in the United States shall, on the basis of sex, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any education program or activity receiving Federal financial assistance..." 20 U.S.C. § 1681 - To Learn More, visit Title IX and Sexual Misconduct.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

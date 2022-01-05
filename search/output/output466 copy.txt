@@ -1,0 +1,620 @@
+https://www.memphis.edu/msci/research/stat.php
+
+
+
+ 
+
+
+
+Applied Statistics - 
+ 	Math Sciences
+ 	 - The University of Memphis
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+
+
+ SearchX
+
+
+Prospective Students
+Current Students
+Parents & Family
+Alumni
+Veterans
+Faculty & Staff
+
+
+Academics
+
+
+All Things Academics
+Colleges & Schools
+UofM Global - Online Degree Program
+UofM Lambuth - Jackson, TN
+Undergraduate Catalog
+Graduate Catalog
+Academic Calendar
+
+
+
+Admissions
+
+
+Undergraduate
+Graduate
+UofM Global - Online
+Law School
+International
+Transfer Students
+Virtual Tour
+Fees/Tuition
+
+
+
+Research and Innovation
+
+
+Division of Research and Innovation
+For Researchers
+For Industry and Partners
+Centers and Institutes
+FedEx Institute of Technology
+Office of Institutional Research
+
+
+
+Libraries
+
+
+University Libraries
+Research Resources
+Special Collections
+Ask-a-Librarian
+
+
+
+Athletics
+
+
+Tiger Athletics
+Tickets
+Intramurals
+Campus Rec
+Make A Gift
+gotigersgo.com
+
+
+
+Support UofM
+
+
+Make A Gift
+Alumni Association
+Athletics Development
+Corporate & Foundation Relations
+
+
+
+News & Events
+
+
+Tiger Zone - Student Events
+Campus Events
+Media Room: News & Magazines
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Review COVID-19 Info & Campus Updates >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+Menu
+
+
+
+
+
+
+
+
+
+
+ 			Department of Mathematical Sciences
+ 	
+
+
+
+
+
+
+
+
+About
+People
+Undergraduate
+Graduate
+Research
+News
+
+
+
+
+
+
+
+
+
+eCourseware
+umMail
+myMemphis
+Directories
+
+
+Visit
+Apply
+Give
+Contact
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Research
+
+
+
+
+
+Applied Statistics
+
+CLION
+
+Combinatorics
+
+Computational Analysis
+
+Differential Equations
+
+Ergodic Theory
+
+Functional Analysis
+
+Math Education
+
+Current Grants
+
+
+
+
+Take Action
+
+
+
+Student FAQ
+Cantor Sect
+Contact Us
+
+
+
+
+
+
+
+
+Home
+
+ 	Math Sciences
+ 	
+
+ 	Research
+ 	Applied Statistics
+
+
+
+Applied Statistics Group
+Main Focus of Research Interests
+
+Statistical analysis of microarray data, and DNA sequence using Bayesian, meta-analytic
+ and semi-parametric procedures
+ 
+Bioinformatics
+Large scale computer simulation
+Modeling and analysis of clustered discrete data with applications to teratology and
+ developmental toxicity studies
+ 
+Statistical risk assessments based on clustered data
+Random number generation
+Design of experiment
+Cryptography
+Nonparametric and Semiparametric Statistics
+
+Research Focus and Collaboration
+The focus of our research is statistical applications. As such our faculty collaborate
+ extensively with research groups within the university: faculty from Biology and Computer
+ Sciences Departments, the College of Education, the School of Public Health, the College
+ of Engineering, and the Fogelman College of Business and Economics. We stress the
+ importance of graduate students' participation in faculty research and collaboration.
+ To ensure that our graduate students get training in analyzing real life data, we
+ have an established internship program for PhD students with the Department of Biostatistics
+ at St. Jude Children's Research Hospital and occasionally with the University of Tennessee
+ Health Sciences Center. Our graduate students also get practical experience through
+ graduate assistantship support from other departments as needed.
+ 
+Seminars
+The group holds regular research seminars with presentations from faculty and graduate
+ students. Our statistics group and members of the biostatistics faculty from the St.
+ Jude Children's Research Hospital form the backbone of the West Tennessee Chapter
+ of the American Statistical Association (WTASA), an organization whose membership
+ includes faculty and graduate students from the School of Public Health, and the University
+ of Tennessee Health Sciences Center. The WTASA holds monthly meetings and seminars.
+ 
+Recommended Courses
+In addition to foundation courses in the theory of probability and statistical inference,
+ we encourage every student to take courses in Bayesian Inference, Stochastic Processes,
+ Linear, Generalized Linear and Non-linear Models, Design of Experiments, Statistical
+ Computing, Statistical Programming in R and SAS.
+ 
+Research Conferences
+PhD students are encouraged to attend various conferences in their research areas.
+ This is in addition to the conferences and seminars frequently hosted by the Department.
+ Usually, graduate students presenting at conferences get some funding for travel,
+ hotel and meals.
+ 
+Job Placement
+We have a most impressive record of placement of PhD students. Practically all our
+ Masters and PhD graduates obtain employment in universities, industries, colleges
+ or high schools. These include those who are currently employed at top institutions
+ such as Universities of Florida, Maryland, Chicago and Tennessee. Some others have
+ achieved executive positions in pharmaceutical, insurance, and financial industries.
+ Among our masters graduates are heads of department in some of the top private high
+ schools in Memphis.
+ 
+Summer Funding
+Summer funding may be available for some advanced PhD students.
+Editorial Activities
+Our faculty provide editorial services to top journals that include the Journal of the American Statistical Association, Journal of the Royal Statistical Society, Biometrika, Biometrics, Technometrics, Journal of Statistical Planning and Inference, Journal of Computational Statistics and Graphical Statistics, Statistics in Medicine, Annals of Statistics, and Annals of Statistical Mathematics and Bioinformatics.
+ 
+Members
+Below are research interest and two representative or recent publications from each
+ member.
+ 
+
+Dale Bowman, Assistant Professor Research Interests: Applied statistics
+ 
+
+On the Exact Correlation Structure of Exchangeable Multinomial Outcomes, with E.O.
+ George, submitted to Biometrics (2013).
+ 
+Regression Models for Analyzing Clustered Binary and Continuous Outcomes under an
+ Assumption of Exchangeability, Analysis of Mixed Data: Methods & Applications, Chapman & Hall/CRC Press, with E.O. George and Q. An (2013).
+ 
+Bowman, D. and George E.O. 2018, A Bayesian analysis of clustered discrete and continuous
+ outcomes, Journal of Applied Statistics, 45, 438-449, DOI 10.1080/02664763.2017.1280003, Bowman, D. and George, E.O. (2018).
+ 
+Secure and Fast Encryption (SAFE) with classical random number generators, ACM Transactions
+ on Mathematical Software, 44 (4):45:1-45:17, Deng, L.Y., Shiau, J.J., Lu, H.H.S. and
+ Bowman, D. (2018).
+ 
+
+
+Su Chen, Assistant Professor Research Interests: Non-parametric and semi-parametric statistics and applied statistics
+ 
+
+Chen, S. and Pokojovy, M. Modern and classical k-sample omnibus tests, Wiley Interdisciplinary
+ Reviews: Computational Statistics (2018), e1418:1-12.
+ 
+Chen, S. Optimal Bandwidth Selection for Kernel Density Functionals Estimation, Journal
+ of Probability and Statistics (2015), Vol 2015: 1-21.
+ 
+
+
+Lih-Yuan Deng, Professor Research Interests: Random number generation and simulation
+ 
+
+Efficient computer search of large-order multiple recursive generators for pseudo-random
+ number generators, Journal of Computational and Applied Mathematics, 236, 3228-3237, with Shiau, J.J. H. and Lu, H. H. S. (2012).
+ 
+Large-order multiple recursive generators with modulus 231−1, INFORMS Journal on Computing, 24(4), 636-647, with Shiau, J.J. H. and Lu, H. H. S. (2012).
+ 
+
+
+E. Olúṣẹ́gun George, Professor; Graduate Coordinator (Statistics) Research Interests: Modeling and analysis of clustered data, Bayesian procedures in bioinformatics and
+ meta-analysis
+ 
+
+An Empirical Bayes Approach for Analysis of Diverse Periodic Trends in Time Course
+ Gene Expression Data, Bioinformatics, 29, 182-188. with M. Kocak, S. Pyne, and S. Pounds, (2013).
+ 
+On the Use of Stochastic Ordering to Test for Trend with Clustered Binary Data, Biometrika, 95-108, with A. Szabo, (2010).
+ 
+
+
+Ching-Chi Yang, Assistant ProfessorResearch Interests: Industrial and engineering statistics, dimensional analysis, response surface methodology,
+ and data mining
+ 
+
+Ching-Chi Yang & Dennis K. J. Lin. Stochastic lead time with order crossover, Quality
+ Technology & Quantitative Management, 16:5, 575-587 (2019).
+ 
+Ching-Chi Yang & Dennis K. J. Lin. A Note on Selection of Basis Quantities for Dimensional
+ Analysis (submitted for publication)
+ 
+Ching-Chi Yang, Le Bao, Yunji Zhang, Dennis Lin, & Fuqing Zhang. Using a Bayesian
+ Model Averaging Method to Improve Consensus Forecasts of Tropical Cyclone Tracks (under
+ preparation)
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Admissions
+
+
+Prospective Students
+Undergraduate
+Graduate
+Law School
+International
+Parents
+Financial Aid
+Scholarships
+Tuition & Fee Payment
+FAQs
+About UofM
+Virtual Tour
+
+
+
+Academics
+
+
+Provost's Office
+Libraries
+Transcripts
+Undergraduate Catalog
+Graduate Catalog
+Academic Calendars
+Course Schedule
+Graduation
+Honors College
+eCourseware
+
+
+
+Athletics
+
+
+gotigersgo.com
+Ticket Information
+Intramural Sports
+Recreation Center
+Athletic Academic Support
+Former Tigers
+Facilities
+Tiger Scholarship Fund
+Media
+
+
+
+Research
+
+
+Division of Research and Innovation
+For Researchers
+Centers & Institutes
+FedEx Institute of Technology
+Libraries
+Grants Accounting
+Environmental Health
+Office of Institutional Research
+
+
+
+Support UofM
+
+
+Make a Gift
+Alumni Association
+Athletics Development
+Corporate & Foundation Relations
+
+
+
+Administrative Support
+
+
+President's Office
+Academic Affairs
+Business & Finance
+Career Opportunities
+Conference & Event Services 
+Corporate Partnerships
+University Advancement
+Government Relations
+Information Technology Services
+TigerHelp
+Media and Marketing
+Student Academic Success
+UofM Foundation
+
+
+
+
+
+ 
+
+Follow UofM Online
+
+Instagram 
+Facebook 
+twitter 
+Youtube 
+LinkedIn 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Print
+Got a Question? Ask
+ TOM
+Copyright
+ ©
+ 2019 The University of Memphis
+
+Important Notice
+
+
+
+Last Updated: 2/21/20
+
+
+The
+ University of Memphis
+Memphis, TN 38152
+Phone: 901.678.2000
+
+
+
+
+The University of Memphis does not discriminate against students, employees, or applicants for admission or employment on the basis of race, color, religion, creed, national origin, sex, sexual orientation, gender identity/expression, disability, age, status as a protected veteran, genetic information, or any other legally protected class with respect to all employment, programs and activities sponsored by the University of Memphis. The Office for Institutional Equity has been designated to handle inquiries regarding non-discrimination policies. For more information, visit The University of Memphis Equal Opportunity and Affirmative Action.Title IX of the Education Amendments of 1972 protects people from discrimination based on sex in education programs or activities which receive Federal financial assistance. Title IX states: "No person in the United States shall, on the basis of sex, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any education program or activity receiving Federal financial assistance..." 20 U.S.C. § 1681 - To Learn More, visit Title IX and Sexual Misconduct.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
