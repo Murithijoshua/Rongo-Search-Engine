@@ -83,7 +83,7 @@ def fetch(site):
 
 if __name__ == "__main__":
     # start_indexing()
-    logging.info("Getting data from memphis.edu")
+    logging.info("Getting data from https://www.rongovarsity.ac.ke")
     fetch(site)
     print("documents Generated")
     # indexing = Index()
