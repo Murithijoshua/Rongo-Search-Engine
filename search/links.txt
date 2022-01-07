@@ -18904,37 +18904,6 @@ https://alumni.uonbi.ac.ke/notable-alumni/
  https://uonbi.ac.ke/faculties-departments
  https://uonbi.ac.ke/institutes-and-centres
  https://uonbi.ac.ke/offices-and-directorates
- /awards-achievements
- /our-rankings
- /inaugural-lectures
- /honorary-degrees
- /higher-doctorate-degrees
- /distinguished-award-winners
- /university-nairobi-valedictorians
- https://uonbi.ac.ke/prize-giving-ceremony
- /uon-resolved-corporate-charters
- https://uonbi.ac.ke/fact-file
- /vision-mission-core-values
- /alumni
- /students
- https://uonbi.ac.ke/september-2021-graduands
- /virtual-64th-graduation-ceremony
- https://uonbi.ac.ke/phd-graduands-december-2020
- /masters-graduands-december-2020
- /uon-64th-graduation-booklet
- /virtual-63rd-graduation
- /news/63rd-graduation-booklet
- /graduating-students-profiles
- /unsa-elections-2020
- Https://eballot.uonbi.ac.ke
- /staff
- /terms-service-teaching-staff
- Https://eballot.uonbi.ac.ke
- /chuna-sacco
- /jobs
- /past-jobs
- /contact-us
- /
  https://uonbi.ac.ke/news/first-years-how-access-your-admission-letter-joining-instructions
  https://uonbi.ac.ke/news/admission-and-orientation-first-years
  /do-you-need-help
@@ -18946,36 +18915,11 @@ https://alumni.uonbi.ac.ke/notable-alumni/
  https://researchweek2021.uonbi.ac.ke/
  /research-news
  https://uonresearch.uonbi.ac.ke/
- /overview
- /scholarships-awards
- /collaborators-partners
- /research-innovation-updates
- /news
- /news
- /events
- /gallery
- /covid-19-updates
- /livestream
  https://uonbi.ac.ke/varsity-focus-september-2020
  Https://uonbi.ac.ke/downloads
- /uon50
- /information-media
  https://uonbi.ac.ke/news/66th-university-nairobi-graduation-ceremony
  https://studentlife.uonbi.ac.ke/event/cursetomary-play
  https://application.uonbi.ac.ke/
- news
- /news/celebrating-humanitarian-women
- /news/celebrating-humanitarian-women
- /news/uon-receives-uscdc-funding-global-ar-lab-response-network
- /news/uon-receives-uscdc-funding-global-ar-lab-response-network
- /news/varsity-enters-deal-support-women-cross-border-trade
- /news/varsity-enters-deal-support-women-cross-border-trade
- /news/uon-establish-agricultural-technology-and-innovation-center
- /news/uon-establish-agricultural-technology-and-innovation-center
- /content/undergraduate-education
- /content/postgraduate-education
- /content/how-apply
- /content/international-students
  https://uonbi.ac.ke/faculty-agriculture
  https://uonbi.ac.ke/faculty-arts
  https://uonbi.ac.ke/faculty-built-environment-design
@@ -18987,35 +18931,7 @@ https://alumni.uonbi.ac.ke/notable-alumni/
  https://uonbi.ac.ke/faculty-science-technology
  https://uonbi.ac.ke/faculty-social-sciences
  https://uonbi.ac.ke/faculty-veterinary-medicine
- https://uonresearch.uonbi.ac.ke/
- /news/researchers-explore-ways-ease-cost-medicines
- /news/researchers-explore-ways-ease-cost-medicines
- /news/spatio-temporal-patterns-domestic-water-distribution-consumption-and-sufficiency-neighbourhood
- /news/spatio-temporal-patterns-domestic-water-distribution-consumption-and-sufficiency-neighbourhood
- /news/researchers-explore-ways-ease-cost-medicines
- /news/researchers-explore-ways-ease-cost-medicines
- /news/spatio-temporal-patterns-domestic-water-distribution-consumption-and-sufficiency-neighbourhood
- /news/spatio-temporal-patterns-domestic-water-distribution-consumption-and-sufficiency-neighbourhood
- /news/knowledge-attitudes-and-practices-sexual-and-reproductive-health-issues-students-university
- /news/knowledge-attitudes-and-practices-sexual-and-reproductive-health-issues-students-university
- /news/researchers-explore-ways-ease-cost-medicines
- /news/researchers-explore-ways-ease-cost-medicines
- /news/spatio-temporal-patterns-domestic-water-distribution-consumption-and-sufficiency-neighbourhood
- /news/spatio-temporal-patterns-domestic-water-distribution-consumption-and-sufficiency-neighbourhood
- /news/knowledge-attitudes-and-practices-sexual-and-reproductive-health-issues-students-university
- /news/knowledge-attitudes-and-practices-sexual-and-reproductive-health-issues-students-university
- /content/locally-grounded-research-strengthening-partnerships-advance-science-and-impact-development
- /content/training-open-journal-publishing-system-ojs-and-research-data-management-system-rdms-0
- /content/humanitarian-women-photograph-exhibition
- /uon-events
- /news/design-university-attire-and-wares-competition
- /news/design-university-attire-and-wares-competition
- /news/66th-university-nairobi-graduation-ceremony
- /news/66th-university-nairobi-graduation-ceremony
- /news/schedule-collection-certificate-65th-graduation-ceremony
- /news/students-voter-registration-drive
- /news
- https://twitter.com/uonbi?ref_src=twsrc%5Etfw
+ https://uonresearch.uonbi.ac.ke/ https://twitter.com/uonbi?ref_src=twsrc%5Etfw
  https://www.uonbi.ac.ke/health-wellness
  https://www.uonbi.ac.ke/student-accommodation
  https://www.uonbi.ac.ke/sports-games
@@ -21458,5 +21374,8 @@ https://www.rongovarsity.ac.ke/vacancies/
  https://www.unesco.uni-jena.de/
 http://english.wtu.edu.cn///
 https://www.rongovarsity.ac.ke/approved-fee-structures-for-the-academic-year-2020-2021/
+
+
+
 
 
