@@ -1,6 +1,6 @@
 Replace your current path
 loading.py
- path = "/Users/christineodero/Downloads/christine'stask 2 3/results"
+ path = "../results"
 
 
 1. install virtualenv
