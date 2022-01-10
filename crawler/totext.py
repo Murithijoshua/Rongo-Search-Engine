@@ -7,7 +7,7 @@ from PyPDF2 import PdfFileReader
 from urllib.request import urlopen
 
 logging.basicConfig(format="%(asctime)s - %(message)s", level=logging.INFO)
-path = "/output"
+path = f"{os.getcwd()}/output"
 output = r"output/"
 
 complete_urls = []
@@ -28,7 +28,7 @@ def save(site, content, name):
 
 # checking links that have social links
 def find_social_link(link):
-    socialLinks = ["google", "youtube"]
+    socialLinks = ["google", "youtube","twitter","instagram","linkedin"]
     return any(i in link for i in socialLinks)
 
 
