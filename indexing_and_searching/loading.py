@@ -3,7 +3,7 @@ from indexing_and_searching.documents import Data
 
 # loading data into memory for further operations
 def load_documents():
-    path = "/home/jj/projects/search/search/output"
+    path = "../output"
     output = r"output/"
     os.chdir(output)
     # iterate through all files
@@ -18,6 +18,4 @@ def load_documents():
                 text = (p.split()[1:])
                 txt = " ".join(text)
                 number += 1
-                print(f"doc {number} loaded to memory!")
-
             yield Data(id=number, text=txt, url=link)

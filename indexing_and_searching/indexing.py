@@ -33,7 +33,7 @@ class Index:
     # searching token/tokens  inside a document
     def search(self, query, search_type='AND', rank=True):
         analyzed_query = cleaning_query(query)
-        if len(analyzed_query) is 0:
+        if len(analyzed_query)==0:
             return []
 
         results = self._results(analyzed_query)
