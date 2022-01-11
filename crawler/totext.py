@@ -5,6 +5,7 @@ from requests import get
 from bs4 import BeautifulSoup as bs
 from PyPDF2 import PdfFileReader
 from urllib.request import urlopen
+import os
 
 logging.basicConfig(format="%(asctime)s - %(message)s", level=logging.INFO)
 path = f"{os.getcwd()}/output"
