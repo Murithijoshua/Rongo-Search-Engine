@@ -23,6 +23,10 @@ def get_href(tags: list):
 # since we do have first set of links we will go ahead to extract extra links inside the extracted links
 def morelinks(link: str):
     return get_href(links_home(link))
+#removing social media links
+def find_social_link(link):
+    socialLinks = ["google", "youtube","twitter","instagram","linkedin"]
+    return any(i in link for i in socialLinks)
 
 
 # removing ID links
@@ -30,54 +34,42 @@ def cleaning_links(links: list):
     return [
         link
         for link in links
-        if not ((link.startswith("#")) )
+        if not ((link.startswith("#")) and find_social_link(link)  )
     ]
+def savelinks(links: set):
+    for i in links:
+        seperatingFiles(i)
+def first_urls(link: str):
+    start = time.process_time()
+    total = get_href(links_home(link))
+    #clean above extracted links
+    total = set(cleaning_links(total))
+    try:
+        savelinks(total)
+    except:
+        log.info('error!')
+    print(time.process_time() - start)
+    return total    
+def child_links(links: set):
+    child_links = []
+    for link in links:
+        time.sleep(10)
+        try:
+            child_links.append(first_urls(link))
+            log.info(f'{len(child_links)}')
+        except:
+            print(f'their is problem with {link}')
+    return child_links
+
 
 
 if __name__ == "__main__":
-    if path.exists("../links.txt"):
-        # getting all the links from the main page
-        total = get_href(links_home("https://www.rongovarsity.ac.ke/"))
-        # clean to remove ll ID links
-        total = set(cleaning_links(total))
-        other_links = []
-        # loop in each link generated from main page(total) to prodeuce additional links then save then inside other_links variable
-        for link in total:
-            time.sleep(5)
-            try:
-                other_links.append(', '.join(cleaning_links(get_href(links_home(link)))))
-                print(other_links)
-            except:
-                print(f'their is problem with {link}')
-        print(other_links)
-        total_links = total.union(set(other_links))
-        # saving the generated links inside txt file
-        with open('../links.txt', 'w') as f:
-            for line in total_links:
-                f.write(line +"\n")
-                f.close()
-    else:
-        pass
-
-
-        # getting data from links extracted and saving it into .txt file
-#         separatelinks()
-#         def webpage_to_txt(links: str):
-#             count = 0
-#             for url in links:
-#                 print(url)
-#                 # logging.info(f"Getting data from {count} out of {len(links)}")
-#                 try:
-#                     separatingFiles(url)
-#                 except:
-#                     logging.info(f"Error Getting data from {url}")
-#                     continue
-#                 count += 1
-
-       
-
-# with open('../links.txt', 'r') as f:
-#     data = f.read()
-#     print(data)
-#     webpage_to_txt(data)
-#     f.close()
+    homelinks = first_urls("https://www.rongovarsity.ac.ke/")
+    secondary_links = child_links(homelinks)
+    total_links = homelinks.union(secondary_links)
+if path.exists("../links.txt"):
+    #write again
+    log.info("rewriting initial links.txt")
+savelinks(total_links)
+    
+    
