@@ -8,9 +8,8 @@ from urllib.request import urlopen
 import os
 
 logging.basicConfig(format="%(asctime)s - %(message)s", level=logging.INFO)
-path = f"{os.getcwd()}/output"
-output = r"output/"
-
+path = "../output"
+output = "../output/"
 complete_urls = []
 myfiles = 0
 
@@ -19,18 +18,16 @@ myfiles = 0
 def save(site, content, name):
     global output, myfiles
     content = re.sub(" +", " ", content)
-    if countWords(content):
-        with open(output + name + ".txt", "w") as file:
-            file.write(f"{site}{content}")
-            file.close()
-        myfiles += 1
-        return myfiles
+    print(output)
+    with open(output + name + ".txt", "w") as file:
+        file.write(f"{site}{content}")
+        file.close()
+    myfiles += 1
+    return myfiles
 
 
 # checking links that have social links
-def find_social_link(link):
-    socialLinks = ["google", "youtube","twitter","instagram","linkedin"]
-    return any(i in link for i in socialLinks)
+
 
 
 # converting pdf into txt
@@ -53,8 +50,8 @@ def savePdf(hL):
 
 
 # seperating files
-def seperatingFiles(link):
-    if hL in complete_urls or find_social_link(hL) != False:
+def seperatingFiles(hL):
+    if hL in complete_urls != False:
 
         return
 
@@ -76,8 +73,15 @@ def seperatingFiles(link):
 def fetch(site):
     global myfiles, complete_urls
     # if myfiles < 1:
-    res = get(site, timeout=5)
+    res = get(site)
     res_html = bs(res.text, features="html.parser")
     res_html_text = res_html.get_text()
     if len(res_html_text) > 0:
         save(site, res_html_text, "output{0}".format(str(myfiles)))
+
+if __name__ == "__main__":
+    with open("../links.txt", 'r') as f:
+        data = f.read()
+        for link in data:
+            seperatingFiles(link)
+        f.close()
