@@ -35,7 +35,7 @@ def cleaning_links(links: list):
 
 
 if __name__ == "__main__":
-    if not path.exists("../links.txt"):
+    if path.exists("../links.txt"):
         # getting all the links from the main page
         total = get_href(links_home("https://www.rongovarsity.ac.ke/"))
         # clean to remove ll ID links
@@ -54,27 +54,30 @@ if __name__ == "__main__":
         # saving the generated links inside txt file
         with open('../links.txt', 'w') as f:
             for line in total_links:
-                f.write(line)
-                f.write('\n')
+                f.write(line +"\n")
+                f.close()
     else:
+        pass
 
 
         # getting data from links extracted and saving it into .txt file
-        separatelinks()
-        def webpage_to_txt(links: str):
-            count = 0
-            for url in links:
-                print(url)
-                # logging.info(f"Getting data from {count} out of {len(links)}")
-                try:
-                    separatingFiles(url)
-                except:
-                    logging.info(f"Error Getting data from {url}")
-                    continue
-                count += 1
+#         separatelinks()
+#         def webpage_to_txt(links: str):
+#             count = 0
+#             for url in links:
+#                 print(url)
+#                 # logging.info(f"Getting data from {count} out of {len(links)}")
+#                 try:
+#                     separatingFiles(url)
+#                 except:
+#                     logging.info(f"Error Getting data from {url}")
+#                     continue
+#                 count += 1
 
-        with open('../links.txt', 'r') as f:
-            data = f.read()
-            print(data)
-            webpage_to_txt(data)
-            f.close()
+       
+
+# with open('../links.txt', 'r') as f:
+#     data = f.read()
+#     print(data)
+#     webpage_to_txt(data)
+#     f.close()

@@ -81,10 +81,3 @@ def fetch(site):
     res_html_text = res_html.get_text()
     if len(res_html_text) > 0:
         save(site, res_html_text, "output{0}".format(str(myfiles)))
-
-if __name__ == "__main__":
-    # start_indexing()
-    logging.info("Getting data from https://www.rongovarsity.ac.ke")
-    fetch(site)
-    print("documents Generated")
-    # indexing = Index()
