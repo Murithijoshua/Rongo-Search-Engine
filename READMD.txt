@@ -7,12 +7,7 @@ loading.py
     python3 -m venv venv
 2. install dependencies
     pip install -r dependencies.tx
-3. Part 1.
-    run: python run.py
-        wait for about 2-3 sec for indexing
-        enter your string on the dialogue
-    part 2.
-          export FLASK_APP=app
+3.        export FLASK_APP=app
           flask run
 
           wait for 2-3 sec for indexing,
