@@ -1,0 +1,132 @@
+https://portal.helb.co.ke/auth/checker
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+The HELB Portal
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Account Login
+
+
+User Registration 
+
+
+Back to Website
+
+
+Helb Checker 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HELB CERTIFICATE CHECKER
+
+The checker confirms validity of certificates issued by HELB to beneficiaries and non-beneficiaries.
+A compliance certificate is issued to beneficiaries who are repaying their loans and to non-beneficiaries who need HELB clearance.
+
+Clearance certificates can be obtained at the HELB offices upon completion of loan repayment.
+To generate a compliance certificate, one is required to sign up at this portal by clicking on User Registration.
+
+
+
+
+Certificate TypeSelect Appropriately.
+
+
+Compliance Certificate
+Clearance Certificate
+
+
+
+ID No.(Client's ID No.)
+
+
+
+
+Certificate Number.(.)
+
+
+
+
+
+Check!
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

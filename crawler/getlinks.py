@@ -1,4 +1,6 @@
-import urllib.request, urllib.parse, urllib.error
+import urllib.request
+import urllib.parse
+import urllib.error
 from bs4 import BeautifulSoup
 from totext import seperatingFiles
 import logging
@@ -23,9 +25,11 @@ def get_href(tags: list):
 # since we do have first set of links we will go ahead to extract extra links inside the extracted links
 def morelinks(link: str):
     return get_href(links_home(link))
-#removing social media links
+# removing social media links
+
+
 def find_social_link(link):
-    socialLinks = ["google", "youtube","twitter","instagram","linkedin"]
+    socialLinks = ["google", "youtube", "twitter", "instagram", "linkedin"]
     return any(i in link for i in socialLinks)
 
 
@@ -34,22 +38,29 @@ def cleaning_links(links: list):
     return [
         link
         for link in links
-        if not ((link.startswith("#")) and find_social_link(link)  )
+        if not ((link.startswith("#")) and find_social_link(link))
     ]
+
+
 def savelinks(links: set):
     for i in links:
-        seperatingFiles(i)
+        try:
+            seperatingFiles(i)
+        except:
+            print(f"this was not extracted successfully {i}")
+            continue
+
+
 def first_urls(link: str):
     start = time.process_time()
     total = get_href(links_home(link))
-    #clean above extracted links
+    # clean above extracted links
     total = set(cleaning_links(total))
-    try:
-        savelinks(total)
-    except:
-        log.info('error!')
+    savelinks(total)
     print(time.process_time() - start)
-    return total    
+    return total
+
+
 def child_links(links: set):
     child_links = []
     for link in links:
@@ -62,14 +73,6 @@ def child_links(links: set):
     return child_links
 
 
-
 if __name__ == "__main__":
     homelinks = first_urls("https://www.rongovarsity.ac.ke/")
     secondary_links = child_links(homelinks)
-    total_links = homelinks.union(secondary_links)
-if path.exists("../links.txt"):
-    #write again
-    log.info("rewriting initial links.txt")
-savelinks(total_links)
-    
-    
