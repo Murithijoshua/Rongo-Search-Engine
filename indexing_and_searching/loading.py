@@ -4,7 +4,7 @@ from indexing_and_searching.documents import Data
 # loading data into memory for further operations
 def load_documents():
     path = "../output"
-    output = r"output/"
+    output = "output/"
     os.chdir(output)
     # iterate through all files
     number = 1
