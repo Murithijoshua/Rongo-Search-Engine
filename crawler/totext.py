@@ -29,7 +29,6 @@ def save(site, content, name):
 # checking links that have social links
 
 
-
 # converting pdf into txt
 def savePdf(hL):
     data = urlopen(hL).read()
@@ -63,7 +62,7 @@ def seperatingFiles(hL):
         s = bs(r.text, "html.parser")
         combine = s.get_text()
         if len(combine.split(" ")) > 50:
-            save(hL,combine, "output{0}".format(str(myfiles)))
+            save(hL, combine, "output{0}".format(str(myfiles)))
     else:
         fetch(hL)
     complete_urls.append(hL)
@@ -73,15 +72,7 @@ def seperatingFiles(hL):
 def fetch(site):
     global myfiles, complete_urls
     # if myfiles < 1:
-    res = get(site)
+    res = get(site, timeout=5)
     res_html = bs(res.text, features="html.parser")
     res_html_text = res_html.get_text()
-    if len(res_html_text) > 0:
-        save(site, res_html_text, "output{0}".format(str(myfiles)))
-
-if __name__ == "__main__":
-    with open("../links.txt", 'r') as f:
-        data = f.read()
-        for link in data:
-            seperatingFiles(link)
-        f.close()
+    save(site, res_html_text, "output{0}".format(str(myfiles)))
