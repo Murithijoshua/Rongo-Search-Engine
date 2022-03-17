@@ -38,7 +38,7 @@
     {% if results %}
     {% for each in results %}
     
-       <li><a href="{{ each[0] }}" target="_blank">{{ each[0] }}</a> <span>ranking {{ each[1] }}</span></li>
+       <li><a href="{{ each[0] }}" rel="noopener" target="_blank">{{ each[0] }}</a> <span>ranking {{ each[1] }}</span></li>
     <hr>
     {% endfor %}
     {%else%}
