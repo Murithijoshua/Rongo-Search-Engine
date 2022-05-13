@@ -1,4 +1,4 @@
-name: Greetings
+name: Greetings start
 
 on: [pull_request, issues]
 
